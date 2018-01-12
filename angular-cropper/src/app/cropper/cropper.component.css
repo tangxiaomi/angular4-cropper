@@ -1,0 +1,9 @@
+#result{
+  overflow:hidden;
+}
+
+.img-preview {
+ width: 400px;
+ height: 100px;
+ overflow: hidden;
+}
